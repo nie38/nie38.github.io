@@ -1,5 +1,5 @@
 ---
-title: "오늘은 목요일"
+title: "오늘은 무슨일이 있었나요?"
 date: 2020-07-02
 categories:
     - blog
